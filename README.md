@@ -6,3 +6,5 @@ A facebook group chat, were a member writes a message and all other members in t
 ### <br>In this screenshots we can see the same thing.
 ### <br>Theres a channel named 'channel1'
 ### <br>Every client connected to that channel will recieve message when published.
+
+![Screenshot from 2022-12-21 23-15-32](https://user-images.githubusercontent.com/76256496/208972316-3d088523-5116-472e-8eee-56d4301d541f.png)
